@@ -2,7 +2,7 @@
 const personas = {
     looks: {
         id: 'looks',
-        image: 'images/looksmaxx.png',
+        image: './images/looksmaxx.png',
         title: 'looksmaxxer',
         subtitle: `you're thinking too much about yourself.`, 
         body: `you're spending a lot of time thinking about how you look, wether its through riguouros workout routines, strict diets, or more extreme methods like peptides or 'bonesmashing'. It's important to remember that there's more to life than your appearance, especially if you're seeking romantic connection. Being a Chad is not worth selling your soul too Clavicular.`,
@@ -10,7 +10,7 @@ const personas = {
     },
     system: {
         id: 'system',
-        image:'images/systemmaxx.png',
+        image:'./images/systemmaxx.png',
         title: 'systemaxxer',
         subtitle: 'your life is running smoothly. unfortunately you are running it like it is a corporate metric',
         body: ` You have really figured out how to maximize your physical success in this world, but when was the last time you enjoymaxxed instead of worrying about your stock portfolio? Some of the biggest accomplishements in life are entirely intrinsic and have no material value, and it's important to rememeber that. Much of the success you see on the internet is larped, do not compare yourself
@@ -19,7 +19,7 @@ const personas = {
     },
     fun: {
         id: 'fun',
-        image: 'images/jestermaxx.png',
+        image: './images/jestermaxx.png',
         title: 'jestermaxxer',
         subtitle: "living life to it's most precious moment, so locked out you have never been locked in",
         body: `Wow you're life is so fun, you're not even pretending to be something you're not, you just are! Congrats most people could learn a lesson on taking a chill pill, however being too chill can become a bit of a deteriment. It's important to have more direction than just the bar or closest social event, in fact you could even really enjoy the result of hardwork towards a goal
@@ -28,7 +28,7 @@ const personas = {
     },
     prophet: {
         id: 'prophet',
-        image:'images/prophetmaxx.png',
+        image:'./images/prophetmaxx.png',
         title: 'prophetmaxxer',
         subtitle: 'you have opinions. so many opinions. mostly delivered to an audience of one.',
         body: `you are the most interesting person at the table  or at least that's the operating assumption. the archival pieces, the obscure references, the philosophical positions on things nobody asked about. you've built an elaborate inner world and you take it very seriously.
